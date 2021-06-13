@@ -1,2 +1,0 @@
-# JS
-Tasks on JS

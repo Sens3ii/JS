@@ -1,3 +1,3 @@
 # JS
-Tasks on JS and React Udemy Course
+Tasks on JS
 https://www.udemy.com/course/javascript_full/

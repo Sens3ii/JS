@@ -50,6 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
         promoBg.style.background = 'url("img/bg.jpg")';
     };
 
+
     const addMovies = () => {
         promoList.innerHTML = '';
         movieDB.movies.sort().forEach((film, i) => {
@@ -82,10 +83,6 @@ document.addEventListener('DOMContentLoaded', () => {
         input.value = '';
         addMovies();
     });
-
-
-
-
 
     removeAdds();
     makeChanges();

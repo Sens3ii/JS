@@ -4,7 +4,7 @@ Hello. This is repository for homeworks from [Udemy](https://www.udemy.com/cours
 
 This repository has 4 folders:
 + 0_Examples
-  This is folder for example from the course.
+  This is folder for examples from the course.
 + 1_JSBasics 
   JS Practice homework in console mode
 + 2_ProjectMovies
@@ -15,9 +15,6 @@ This repository has 4 folders:
 
 ### Project Food:
 
-
-
-https://user-images.githubusercontent.com/60396622/124277624-0e1f9f80-db67-11eb-9167-7316dbb0858a.mp4
 
 
 

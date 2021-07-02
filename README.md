@@ -13,8 +13,7 @@ This repository has 4 folders:
   Final project from Udemy on JS. Contains huge functionality for working with a website in Pure JS
 ---
 
-###Project Food:
----
+### Project Food:
 
 
 https://user-images.githubusercontent.com/60396622/124277116-820d7800-db66-11eb-8d3c-9bb6c547644c.mp4
